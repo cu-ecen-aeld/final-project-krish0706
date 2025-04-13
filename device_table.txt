@@ -1,0 +1,1 @@
+/etc/init.d/S40network f 755 root root _ _ _ _ _
