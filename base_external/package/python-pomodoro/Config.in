@@ -1,0 +1,4 @@
+config BR2_PACKAGE_PYTHON_POMODORO
+	bool "python-pomodoro"
+	help
+	  This package includes pomodoro server python package.
